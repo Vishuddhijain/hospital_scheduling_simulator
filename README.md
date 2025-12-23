@@ -58,6 +58,7 @@ Critical patients receive immediate attention, ensuring medical urgency is respe
 - **Algorithms:** FCFS, SJF, Round Robin, Priority Scheduling
 - **Version Control:** Git, GitHub
 
+---
 ## 🎨 Visualizing Patient Scheduling
 The simulator provides a **real-time visual treatment timeline** using a Gantt-chart-style representation, allowing users to:
 
@@ -81,11 +82,6 @@ This makes scheduling behavior **intuitive, visual, and easy to understand**.
 <p align="center">
   <img src="scheduling-algo-main/src/assets/fcfs-visualization.jpeg" alt="FCFS Visualization" width="900"/>
 </p>
-- Patient P1 is treated first (earliest arrival)
-- P2 and P3 wait until the doctor is free
-- Timeline progresses based on consultation durations
-
----
 
 ---
 
