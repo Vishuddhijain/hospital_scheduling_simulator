@@ -76,7 +76,7 @@ This makes scheduling behavior **intuitive, visual, and easy to understand**.
 <p align="center">
   <img src="scheduling-algo-main/src/assets/home-dashboard.jpeg" alt="Hospital Patient Scheduling Simulator" width="900"/>
 </p>
----
+
 
 ### 🔍 Visualization Process
 <p align="center">
