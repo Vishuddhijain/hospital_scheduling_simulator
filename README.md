@@ -73,13 +73,13 @@ This makes scheduling behavior **intuitive, visual, and easy to understand**.
 
 ### 📝 Input Example
 <p align="center">
-  <img src="assets/home-dashboard.jpeg" alt="Hospital Patient Scheduling Simulator" width="900"/>
+  <img src="scheduling-algo-main/src/assets/home-dashboard.jpeg" alt="Hospital Patient Scheduling Simulator" width="900"/>
 </p>
 ---
 
 ### 🔍 Visualization Process
 <p align="center">
-  <img src="assets/fcfs-visualization.jpeg" alt="FCFS Visualization" width="900"/>
+  <img src="scheduling-algo-main/src/assets/fcfs-visualization.jpeg" alt="FCFS Visualization" width="900"/>
 </p>
 - Patient P1 is treated first (earliest arrival)
 - P2 and P3 wait until the doctor is free
@@ -91,7 +91,7 @@ This makes scheduling behavior **intuitive, visual, and easy to understand**.
 
 ### 📤 Output Metrics
 <p align="center">
-  <img src="assets/Output.jpeg" alt="Output" width="900"/>
+  <img src="scheduling-algo-main/src/assets/Output.jpeg" alt="Output" width="900"/>
 </p>
 
 ---
@@ -157,5 +157,3 @@ The **Hospital Patient Scheduling Simulator** transforms abstract scheduling alg
 By visualizing patient flow and treatment order, it highlights how smart scheduling can **save time, resources, and lives**.
 
 ---
-
-```
