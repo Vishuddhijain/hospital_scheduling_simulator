@@ -83,7 +83,6 @@ This makes scheduling behavior **intuitive, visual, and easy to understand**.
   <img src="scheduling-algo-main/src/assets/fcfs-visualization.jpeg" alt="FCFS Visualization" width="900"/>
 </p>
 
----
 
 ### 📤 Output Metrics
 <p align="center">
